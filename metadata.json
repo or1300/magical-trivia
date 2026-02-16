@@ -1,0 +1,5 @@
+{
+  "name": "Magical Trivia",
+  "description": "An immersive wizard-themed trivia application that uses the Gemini API to generate challenging questions based on chosen difficulty paths.",
+  "requestFramePermissions": []
+}
